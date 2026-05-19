@@ -39,14 +39,6 @@
 
 ## 📌 Projects
 
-### 💰 Expense Tracker
-- Built using Python & Django  
-- Helps manage daily expenses and income records  
-
-### 📊 Student Management System
-- Developed using Python & MySQL  
-- Handles student data efficiently  
-
 
 ## 📚 Currently Learning
 - Data Structures & Algorithms  
