@@ -39,7 +39,6 @@
 
 ## 📌 Projects
 
-
 ## 📚 Currently Learning
 - Data Structures & Algorithms  
 - Problem Solving  
