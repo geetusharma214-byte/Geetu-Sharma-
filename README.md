@@ -1,4 +1,4 @@
-# GEETU SHARMA
+
 # Hi 👋, I'm Geetu Sharma  
 
 🎓 MCA Student | 💻 Aspiring Software Developer | 🚀 LeetCode Enthusiast  
